@@ -4,8 +4,7 @@
 
 ## About me :mortar_board:
 I am a student and a learner , currently studying at Bharati Vidyapeeth College of Engineering,Delhi.I believe in exercising both for the ming and body. what lifting weights and working out is to the body , logical reasoning is to the mind. So, keep coding and moving on is what I live for.
-- 📝[Resume](https://drive.google.com/file/d/1xK5qF6nP2W2lbL3Zpgvby_jY2erXSGgy/view?usp=sharing)
- 
+
  ## What I know :computer:
 - **Java**
 - **Data structures and Algorithms**
